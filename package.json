@@ -18,7 +18,7 @@
     "@mdx-js/react": "^1.5.9",
     "gatsby": "^2.20.25",
     "gatsby-image": "^2.3.4",
-    "gatsby-plugin-mdx": "^1.1.10",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-sharp": "^2.5.7",
     "gatsby-remark-images": "^3.2.6",
     "gatsby-remark-responsive-iframe": "^2.3.4",
